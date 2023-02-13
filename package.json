@@ -1,0 +1,21 @@
+{
+  "name": "@naome/calculator",
+  "version": "1.0.0",
+  "main": "sum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "naome",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "calculator": "^0.1.12",
+    "express": "^4.18.2",
+    "sum": "^0.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gitlab.com/Naome12/catjs"
+  },
+  "description": ""
+}
